@@ -1,2 +1,2 @@
 # Java-coursework-
-This project is one of the CMT219 Algorithms, Data Structures & Programming coursework. This assignment involves coding, testing code, providing evidence, and explaining the work.
+This coursework assignment is a part of the CMT219 Algorithms, Data Structures, and Programming module. The project requires engaging in a multifaceted process that encompasses coding, code testing, providing supporting evidence, and thoroughly explaining the undertaken work.
